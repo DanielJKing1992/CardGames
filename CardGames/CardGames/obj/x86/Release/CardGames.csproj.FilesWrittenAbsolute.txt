@@ -1,0 +1,5 @@
+/Users/Daniel/Projects/CardGames/CardGames/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Daniel/Projects/CardGames/CardGames/bin/Release/CardGames.exe.mdb
+/Users/Daniel/Projects/CardGames/CardGames/bin/Release/CardGames.exe
+/Users/Daniel/Projects/CardGames/CardGames/obj/x86/Release/CardGames.exe
+/Users/Daniel/Projects/CardGames/CardGames/obj/x86/Release/CardGames.exe.mdb
